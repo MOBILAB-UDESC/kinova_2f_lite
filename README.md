@@ -11,7 +11,9 @@ ROS 2 description and simulation package for the **Kinova 2f Lite** gripper (def
 
 ## ROS 2 info
 <p align="center">
-|Ubuntu|ROS 2 Distro|Gazebo Version|
-|:----:|:---------------:|:------------:|
-|[24.04](https://ubuntu.com/blog/tag/ubuntu-24-04-lts)|[Jazzy](https://docs.ros.org/en/jazzy/index.html)|[Harmonic](https://gazebosim.org/docs/harmonic/getstarted/)|
+
+  |Ubuntu|ROS 2 Distro|Gazebo Version|
+  |:----:|:---------------:|:------------:|
+  |[24.04](https://ubuntu.com/blog/tag/ubuntu-24-04-lts)|[Jazzy](https://docs.ros.org/en/jazzy/index.html)|[Harmonic](https://gazebosim.org/docs/harmonic/getstarted/)|
+
 </p>
